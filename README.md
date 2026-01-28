@@ -2,8 +2,6 @@
 
 QGIS plugin for generating variable width buffers from hydraulic network conduits exported from InfoWorks ICM Ultimate.
 
-![EPA Logo](conduit_buffer_plugin/icon.png)
-
 ## Features
 
 - ✅ Generates variable width buffers based on actual conduit dimensions
